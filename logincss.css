@@ -1,0 +1,7 @@
+.split-pane {
+    -fx-border-image-slice: none!important;
+ }
+
+ .split-pane-divider {
+   visible: false!important;
+ }

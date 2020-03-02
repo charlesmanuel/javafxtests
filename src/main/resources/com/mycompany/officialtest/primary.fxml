@@ -19,7 +19,7 @@
          <children>
             <ImageView fitHeight="51.0" fitWidth="51.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="file:/Users/charlesmanuel/Documents/OFFICIALTEST/src/main/resources/img/lightbulb.png" />
+                  <Image url="@../../../img/lightbulb.png" />
                </image>
             </ImageView>
             <Label alignment="CENTER" prefHeight="80.0" prefWidth="230.0" text="QuickComps" textAlignment="CENTER">
@@ -89,7 +89,7 @@
             </Separator>
             <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="file:/Users/charlesmanuel/Documents/OFFICIALTEST/src/main/resources/img/sheetcloud.png" />
+                  <Image url="@../../../img/sheetcloud.png" />
                </image>
             </ImageView>
          </children>

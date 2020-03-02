@@ -1,0 +1,4 @@
+.split-pane {
+    -fx-background-insets: 0, 0;
+    -fx-padding: 0;
+ }
